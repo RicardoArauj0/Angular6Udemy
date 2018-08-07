@@ -1,4 +1,4 @@
-import { Ingredient } from './../../shared/ingredient.model';
+import { Ingredient } from '../../shared/ingredient.model';
 import { Component, OnInit, ViewChild, ElementRef, Output, EventEmitter } from '@angular/core';
 
 
